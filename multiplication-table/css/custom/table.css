@@ -1,0 +1,9 @@
+.hovered {
+    background: rgb(136, 236, 105);
+}
+.parent-hovered {
+    background: lightgreen;
+}
+.hovered-title {
+    background: rgb(102, 235, 102);
+}
